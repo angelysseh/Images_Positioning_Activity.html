@@ -53,14 +53,14 @@ body,td,th {
 	}
 
 #looks {
-	background-color: #FF3;
+	background-color: #ffe8fe;
 	float: left;
 	width: 300px;
 	padding:1em;
 	margin:0px 1em 1em 0px;
 }
 
-.heading {background-color:#FF3;
+.heading {background-color:#ffe8fe;
 padding:.75em;
 text-align:center;}
 
